@@ -1,8 +1,26 @@
-p {
-    font-weight: bold;
-    font-size: 5rem;
+header {
+    background-color: #EA5E42;
+    
 }
 
 a {
-    font-size: 7rem;
+    
+    
+}
+
+.large {
+    font-size: 3rem;
+}
+
+.white {
+    color: white;
+}
+
+.box-just {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    max-width: 1200px;
+    al
 }
